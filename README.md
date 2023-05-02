@@ -1,5 +1,5 @@
-# India-Census-Analysis-project
-project on India Census Analysis using ploty and streamlit 
+# India-Census-Analysis-project-using ploty and streamlit
+project on India Census Analysis 
 
 INTRODUCTION
 
